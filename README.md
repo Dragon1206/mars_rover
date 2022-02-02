@@ -1,5 +1,4 @@
-# mars_rover
-MARS ROVER APPLICATION
+MARS ROVER APPLICATION [SIMPLE Nodejs program]
 --
 Description:
 -
